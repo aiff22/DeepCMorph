@@ -35,10 +35,10 @@ The segmentation module of all pre-trained models is trained on a combination of
 
 | Dataset                     | #Classes | Accuracy | Download Link |
 |-----------------------------|----------|----------|---------------|
-| Combined [[TCGA](https://zenodo.org/records/5889558) + [NCT_CRC_HE](https://zenodo.org/records/1214456)]       | 41       | 81.59%   |  [Link](https://data.vision.ee.ethz.ch/ihnatova/public/DeepCMorph/DeepCMorph_Datasets_Combined_41_classes_acc_8159.pth)             |
-| [TCGA](https://zenodo.org/records/5889558) [Extreme Augmentations] | 32       | 82.00%   |  [Link](https://data.vision.ee.ethz.ch/ihnatova/public/DeepCMorph/DeepCMorph_Pan_Cancer_Regularized_32_classes_acc_8200.pth)             |
-| [TCGA](https://zenodo.org/records/5889558) [Moderate Augmentations] | 32       | 82.73%   |  [Link](https://data.vision.ee.ethz.ch/ihnatova/public/DeepCMorph/DeepCMorph_Pan_Cancer_32_classes_acc_8273.pth)             |
-| [NCT_CRC_HE](https://zenodo.org/records/1214456)                  | 9        | 96.99%   |  [Link](https://data.vision.ee.ethz.ch/ihnatova/public/DeepCMorph/DeepCMorph_NCT_CRC_HE_Dataset_9_classes_acc_9699.pth)             |
+| Combined [[TCGA](https://zenodo.org/records/5889558) + [NCT_CRC_HE](https://zenodo.org/records/1214456)]       | 41       | 81.59%   |  [Link](https://download.ai-benchmark.com/s/TdZ95Aby9oiQZaq/download/DeepCMorph_Datasets_Combined_41_classes_acc_8159.pth)             |
+| [TCGA](https://zenodo.org/records/5889558) [Extreme Augmentations] | 32       | 82.00%   |  [Link](https://download.ai-benchmark.com/s/9agjmef5E3MoaY7/download/DeepCMorph_Pan_Cancer_Regularized_32_classes_acc_8200.pth)             |
+| [TCGA](https://zenodo.org/records/5889558) [Moderate Augmentations] | 32       | 82.73%   |  [Link](https://download.ai-benchmark.com/s/P49xrNejSWy8k8T/download/DeepCMorph_Pan_Cancer_32_classes_acc_8273.pth)             |
+| [NCT_CRC_HE](https://zenodo.org/records/1214456)                  | 9        | 96.99%   |  [Link](https://download.ai-benchmark.com/s/HSseoKrDS8CknPJ/download/DeepCMorph_NCT_CRC_HE_Dataset_9_classes_acc_9699.pth)             |
 
 Download the required models and copy them to the ``pretrained_models/`` directory.
 
